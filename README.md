@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @daditto2012
 - 👀 I’m interested in ub games
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Google sites ub games
 - 📫 How to reach me uglyfacelmao@gmail.com
 - 😄 Pronouns: he/him
